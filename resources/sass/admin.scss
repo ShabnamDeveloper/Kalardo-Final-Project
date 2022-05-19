@@ -1,0 +1,8 @@
+@import url('./admin/adminlte.css');
+@import url('./admin/bootstrap-rtl.min.css');
+@import url('./admin/custom-style.css');
+@import "node_modules/select2/src/scss/core";
+// If you need to import Bootstrap as well:
+@import "node_modules/select2-bootstrap-5-theme/src/select2-bootstrap-5-theme";
+// Or if you have already imported Bootstrap:
+@import "node_modules/select2-bootstrap-5-theme/src/include-all";
